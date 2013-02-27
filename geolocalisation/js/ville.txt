@@ -1,0 +1,3 @@
+Levallois-Perret - Latitude : 48.893217 - Longitude : 2.287864
+Colombes - Latitude : 48.931179 - Longitude : 2.248307
+Boulogne-Billancourt - Latitude : 48.84325 - Longitude : 2.237803
